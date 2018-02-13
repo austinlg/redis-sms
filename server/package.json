@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "faker": "^4.1.0",
+    "http": "^0.0.0",
+    "ioredis": "^3.2.2",
+    "moment": "^2.20.1",
+    "socket.io": "^2.0.4"
+  }
+}

@@ -1,0 +1,23 @@
+.full-width {
+    width: 100%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.margin-sm {
+    margin: .2rem;
+}
+
+.margin-lg {
+    margin: 1rem;
+}
+
+.padding-sm {
+    padding: 1rem;
+}
+
+.width-md {
+    min-width: 9rem;
+}

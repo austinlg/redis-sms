@@ -1,0 +1,33 @@
+.f-column {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.f-row {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.justify-left {
+    justify-content: left;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.wrap {
+    flex-wrap: wrap
+}
+
+.item-center {
+    align-self: center;
+}
+
+.item-start {
+    align-self: flex-start;
+}
+
+.item-end {
+    align-self: flex-end;
+}
